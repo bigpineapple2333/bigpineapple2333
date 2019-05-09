@@ -7,7 +7,7 @@ author: "一个大菠萝"
 header-img: "img/hello-world.png"
 header-mask: 0.3
 tags:
-     随笔
+   - 随笔
 
 ---
 
